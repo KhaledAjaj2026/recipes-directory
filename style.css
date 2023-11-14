@@ -1,0 +1,24 @@
+h1, p, ul {
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    text-decoration: none;
+}
+
+figure {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
